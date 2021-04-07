@@ -1,3 +1,3 @@
-![Generic badge](https://testing-github-badge-bucket.s3.amazonaws.com/badges/b/main-build.svg)
+![Generic badge](http://d2k8l9f5ekjix5.cloudfront.net/badges/b/main-build.svg)
 
 # dynamic-github-ci-cd-badges
